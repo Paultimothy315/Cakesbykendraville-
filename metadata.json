@@ -1,0 +1,6 @@
+{
+  "name": "Cakes by Kendraville",
+  "description": "A beautiful bespoke bakery website for Cakes by Kendraville.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
